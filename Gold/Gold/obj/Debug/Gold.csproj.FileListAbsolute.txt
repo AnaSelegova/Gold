@@ -119,3 +119,4 @@ D:\Projects\Gold\Gold\Gold\obj\Debug\Gold.csproj.CoreCompileInputs.cache
 D:\Projects\Gold\Gold\Gold\obj\Debug\Gold.csproj.CopyComplete
 D:\Projects\Gold\Gold\Gold\obj\Debug\Gold.dll
 D:\Projects\Gold\Gold\Gold\obj\Debug\Gold.pdb
+D:\Projects\Gold\Gold\Gold\obj\Debug\Gold.csprojAssemblyReference.cache
